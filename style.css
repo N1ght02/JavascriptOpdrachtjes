@@ -1,0 +1,150 @@
+body
+{
+background-color: grey;
+margin: 0;
+padding: 0;
+height: 100%;
+overflow: hidden;
+
+}
+#nav a:hover
+{
+  color: white;
+
+}
+
+#validatie img {
+    height: 1em;
+    width: auto;
+    margin: 0 .3em
+}
+
+body p
+{
+  font-size: 0.8em;
+  line-height: 1,28;
+}
+
+
+
+#sidebar
+{
+  float: right;
+  width: 250px;
+  height: 400px;
+  margin: 20px 10px;
+  padding: 10px;
+
+}
+
+footer
+{
+  clear: both;
+  width: auto;
+  height: 50px;
+  padding: 300px;
+  text-align: center;
+  color: black;
+  margin-top: -40px;
+  font-size: 30PX;
+}
+
+#navigation
+{
+  margin-top: -170px;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: black;
+
+}
+
+#bannerimg
+{
+  width: 1335px;
+  height: 220px;
+  margin-left: -12px;
+  margin-left: -5px;
+  margin-top: -5px;
+}
+
+#bannertitle
+{
+  margin-top: 100px;
+  color: black;
+
+}
+
+#info
+{
+
+}
+
+#nav
+{
+  list-style: none;
+}
+
+#nav ul
+{
+  margin: 0;
+  padding: 0;
+  width: auto;
+  display: none;
+  text-align: center;
+}
+
+#nav li
+{
+  font-size: 24px;
+  float: left;
+  position: relative;
+  padding: 0 15px;
+
+}
+
+#nav a:link, nav a:active, nav a:visited
+{
+  display: block;
+  color: black;
+  text-decoration: none;
+
+}
+
+
+#banner
+{
+  background-color: lightgrey;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 200px;
+  margin-top: -100px;
+  margin-left: -100;
+}
+
+#wrapper
+{
+  background-color: lightgrey;
+}
+
+#logo
+{
+  width: 100px;
+  height: 100px;
+  cursor: pointer;
+  margin-left: 470px;
+  margin-right: -270px;
+}
+
+#content_area
+{
+  width: 750px;
+  margin: 20px 0 20px 0;
+  padding: 10px;
+  margin-top: 20px;
+
+}
+.hoofd3 {
+  margin-top: 75px;
+}
